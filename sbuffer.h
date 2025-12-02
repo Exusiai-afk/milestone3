@@ -1,5 +1,5 @@
 /**
- * \author {AUTHOR}
+ * \author {MINGHAO CHEN}
  */
 
 #ifndef _SBUFFER_H_
